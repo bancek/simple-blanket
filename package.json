@@ -1,0 +1,20 @@
+{
+  "name": "simple-blanket",
+  "version": "0.1.0",
+  "description": "Simple CLI for blanket code coverage library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bancek/simple-blanket.git"
+  },
+  "dependencies": {
+    "blanket": "~1.1.6",
+    "minimist": "~1.1.0"
+  },
+  "keywords": [
+    "blanket",
+    "coverage"
+  ],
+  "bin": "./simple-blanket.js",
+  "author": "Luka Zakrajsek <luka@bancek.net>",
+  "license": "MIT"
+}
